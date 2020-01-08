@@ -389,11 +389,11 @@
        width: 13vw;
        height: 14.6vw;
        margin: 0px 60px 25px 60px;
-       -webkit-transition-duration: 0.6s;
+       transition-duration: 0.6s;
    }
 
    .book_bund img:hover {
-       -webkit-transition-duration: 0.6s;
+       transition-duration: 0.6s;
 
        transform: translateX(1.5vw);
 
@@ -444,32 +444,32 @@
    .book_ux img {
        width: 26.5vw;
        height: 30vw;
-       -webkit-transition-duration: 0.6s;
+       transition-duration: 0.6s;
        /*       padding-left: 50px;*/
    }
 
    .book_content img {
        width: 26.5vw;
        height: 30vw;
-       -webkit-transition-duration: 0.6s;
+       transition-duration: 0.6s;
    }
 
    .book_web img {
        width: 26.5vw;
        height: 30vw;
-       -webkit-transition-duration: 0.6s;
+       transition-duration: 0.6s;
    }
 
    .book_animation img {
        width: 26.5vw;
        height: 30vw;
-       -webkit-transition-duration: 0.6s;
+       transition-duration: 0.6s;
    }
 
    .book_cv img {
        width: 26.5vw;
        height: 30vw;
-       -webkit-transition-duration: 0.6s;
+       transition-duration: 0.6s;
    }
 
    .book_ux img:hover {
