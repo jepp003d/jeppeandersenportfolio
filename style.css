@@ -346,7 +346,7 @@
    .col_right {
        flex-basis: 300px;
        flex-grow: 1;
-       padding-left: 20px;
+
 
    }
 
@@ -1451,7 +1451,7 @@
        .col {
            flex-basis: 500px;
            flex-grow: 1;
-           padding: 0px 300px 0px 140px;
+           padding: 0px 330px 0px 140px;
        }
 
        .col img {
